@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <description>
+        <title-info>
+            <genre>antique</genre>
+                <author><first-name></first-name><last-name>Unknown</last-name></author>
+            <book-title>Существуют ли моральные проблемы при разработке автопилота?</book-title>
+            
+            <lang>ru</lang>
+            
+            
+        </title-info>
+        <document-info>
+            <author><first-name></first-name><last-name>Unknown</last-name></author>
+            <program-used>calibre 2.5.0</program-used>
+            <date>19.4.2017</date>
+            <id>a589cb4d-14a1-40e3-977b-005469af414a</id>
+            <version>1.0</version>
+        </document-info>
+        <publish-info>
+            
+            
+            
+        </publish-info>
+    </description>
+<body>
+<section>
+<p>
+                                                        
+                                                        
+                                                        
+                                                        
+
+<strong>Существуют ли моральные проблемы
+при разработке автопилота?</strong></p>
+
+<p>Alexey Shrub aka worldmind</p><empty-line /><p>    http://mindstate.info</p><empty-line /><p>19 апреля 2017 г.</p>
+
+<p><strong>1    Проблема</strong></p>
+
+<p>Приближение эпохи автономных автомобилей заставляет СМИ
+кричать о том, что надо решить якобы существующие связанные
+с этим моральные проблемы. Однако, в качестве примеров
+иллюстрирующих эти проблемы приводятся совершенно
+нереалистичные ситуации, поэтому чтобы понять существует ли
+проблема нужно сделать небольшой анализ.</p>
+
+<p><strong>2    Что такое мораль</strong></p>
+
+<p>Определение в Википедии сообщает, что мораль это «принятые в
+обществе представления о хорошем и плохом, правильном и
+неправильном». Однако при обсуждении морали автопилота понятие
+сужается до вопроса ценности человеческой жизни, а точнее
+сравнения ценностей разных людей и разного их количества.
+Т.е. моральным вопросом автопилота считается вопрос: «кого
+давить?»</p>
+
+<p>   Мораль явление субъективное, нет универсальной морали. В
+исследовании MIT, о котором будет сказано позднее, были
+обнаружены половые отличия в принятии моральных решений, при
+этом в эксперименте нет ни расовых, ни национальных, ни
+религиозных отличий. На мораль конкретного сапиенса оказывает
+влияние множество факторов, в том числе его национальная и
+религиозна идентификация, не говоря уже о воспитании. Кого
+предпочтёт спасти религиозный человек - такого же религиозного
+или атеиста? Гражданин одной страны кого предпочтёт спасти, если
+выбор будет между согражданином и гражданином государства с
+которым его страна воюет?</p>
+
+<p><strong>3    Что такое моральный выбор</strong></p>
+
+<p>Моральный выбор это вынужденный выбор между несколькими
+аморальными деяниями, уровень аморальности которых трудно
+сравнить. В случае автопилота существование морального выбора
+требует выполнения следующих условий:</p>
+
+<p>Ситуация                                                         должна
+     быть реалистичной, т.е. должна быть ясная предыстория её
+     возникновения. Нет смысла обсуждать ситуацию которая
+     не может возникнуть.</p>
+
+<p>Должен  быть  выбор  -  должно  быть  как  минимум  два
+     варианта действий. Вариантами тут можно считать только
+     равноценные альтернативы - очевидно что «выбор» давить
+     виновника  ДТП  или  случайного  человека  это  не  выбор,
+     или  выбор  поцарапать  одного  или  задавить  другого  это
+     тоже  не  выбор.  Выбор,  например,  должен  быть  между
+     двумя  невиновными  при  сравнимом  ущербе  для  них.
+     Т.е. не должно быть возможности осуществить выбор по
+     внеморальным критериям.</p>
+
+<p>Результат                                                         выбора
+     каждого варианта должен быть предсказуем, максимально
+     однозначен.   Будущее   неизвестно,   а   выбирать   можно
+     только опираясь на достаточно высокую уверенность в нём,
+     что скорее всего невозможно на практике. Т.е. по сути надо
+     полностью  контролировать  ситуацию  во  всех  вариантах.
+     Проблема  вагонетки  как  пример  ситуации  в  которой
+     достаточно точно известен результат любого решения.</p>
+
+<p>С реалистичностью ситуаций есть большие проблемы, обычно приводят
+примеры в духе «представьте, что вы идёте по пустыне и вдруг из-за
+угла танк», т.е. приводят ситуацию, которая якобы есть в данные
+момент, но не поясняют как она возникла. А если начать разбирать,
+то оказывается, что ситуация возникнуть не могла - либо скорость
+должна быть меньше, либо никто на дорогу незаметно выскочить не
+смог бы и т.д. и т.п.</p>
+
+<p>   Условно реалистичной является ситуация описанная в тесте
+Moral Machine от MIT.</p><empty-line /><p><image xlink:href="#_0.jpg" /></p><empty-line /><p>   Но и в ней не всё гладко. Во-первых, самый логичный вариант в
+описанной ситуации это прижаться к ограждению пытаясь погасить
+скорость, одновременно сигналя, тем самым давая пешеходам время
+пройти дальше по переходу. Изображённый переход находится либо
+в городе, где скорость ограничена достаточно сильно, либо на
+скоростной трассе, где тормозить автопилот должен был начать
+заранее и узнать что тормоза поломаны. В обоих случаях у него
+должно быть больше времени на гашение скорости об ограждение и
+распугивание пешеходов сигналом. Как видим реалистичность
+ситуации уже рассыпается на глазах. Во-вторых, вся ситуация
+опирается на отказ тормозов, это и сейчас достаточно редкие
+ситуации, а никто не мешает повысить надёжность тройным
+резервированием и сделать самодиагностику так, чтобы машина
+просто не ехала с неисправностями тормозов.</p>
+
+<p><strong>4    Что необходимо для того чтобы совершать моральный
+выбор</strong></p>
+
+<p>Чтобы привить автопилоту мораль у него должна быть точная и
+идентичная человеческой модель мира. Нужно понимание ситуации
+не худшее чем есть у человека.</p>
+
+<p><strong>5    Может ли моральный выбор противоречить закону</strong></p>
+
+<p>Перед законом все равны, а значит применение закона не требует
+совершения морального выбора. Ещё Макиавелли писал, что для
+стабильности общества никакие заслуги не должны позволять
+нарушать закон. Мы не делаем морального выбора когда, например,
+                                                        
+                                                        
+судим человека за преступление, мы руководствуемся формальной
+инструкцией - законом. Поэтому автопилот не должен делать
+морального выбора в сторону нарушения правил. Автопилот должен
+действовать строго по правилам.</p>
+
+<p><strong>6    Что такое автопилот и есть ли он</strong></p>
+
+<p>Автопилот - программно-аппаратный комплекс способный управлять
+транспортным средством так, чтобы доставить его из начальной
+точки в заданную конечную не спровоцировав аварийных ситуаций.
+Автопилот по определению это программа, это не искусственный
+интеллект, не разумная личность, а алгоритм.</p>
+
+<p>   В данный момент гугломобили проехали достаточно, чтобы
+показать, что автопилот может успешно ездить в самых худших для
+робота условиях - на дорогах построенных для людей и среди
+водителей-людей. Но такое качество требует оборудования
+(например лидаров), которое пока дорогова-то, оборудование будет
+дешеветь, а дорожные условия для роботов будут улучшаться.
+Знаки, разметка и карты будут адаптированы, а автомобили
+научатся обмениваться дорожной информацией друг с другом.</p>
+
+<p>   Конечно технология новая и ещё не отшлифованная, но это
+вопрос времени, а значит в ближайшем будущем автономный
+автомобиль станет привычным явлением.</p>
+
+<p><strong>7    Зачем создают автопилот</strong></p>
+
+<p>Создатели автопилота занимаются этим для решения двух задач -
+снижение стоимости перевозок и повышения их безопасности.
+Стоимость перевозок это забота предпринимателей, а при обсуждении
+                                                        
+                                                        
+вопросов морали нас интересует безопасность.</p>
+
+<p>   Важно отметить, что речь не идёт о совершенстве, оно, к
+сожалению, недостижимо, речь не идёт о неуязвимом автопилоте
+который спасёт пассажиров даже если Луна обрушится на Землю.
+Речь о том, что автопилот должен быть хотя бы немного лучше чем
+человек в сфере безопасности. Причём лучше не в среднем, а лучше
+или не хуже во всех ситуациях. Ведь в теории может быть автопилот
+который уменьшает смертность на дорогах, но так, что гибнут люди
+которые никогда бы не пострадали при белковых водителях. Такого
+быть не должно, автопилот не должен ухудшать чьё-либо
+положение, снижение смертности не должно происходить за чей-то
+счёт.</p>
+
+<p>   В ситуациях не требующих морального выбора автопилот
+однозначно выигрывает человека - скорость реакции выше,
+внимательность и сосредоточенность выше. Автопилот не устаёт, не
+засыпает, не употребляет наркотики, не болтает и не отвлекается. А
+ведь главная причина аварий именно эти человеческие дефекты.</p>
+
+<p>   С этим вопросом понятно, теперь нужно понять как влияет
+автопилот на гипотетическую ситуацию в которой есть моральный
+выбор. Вопрос в том умеют ли люди в аварийной ситуации
+совершать «правильный» моральный выбор? Боюсь, что нет.
+Во-первых, аварийные ситуации обычно скоротечны, часто
+человек просто не успевает осознать происходящее, слышал что
+самое безопасное место позади водителя (видимо при лобовых
+столкновениях), потому что тот рефлекторно выворачивает
+руль так, чтобы самому не врезаться в препятствие т.е. на
+рассуждения о морали времени нет - работают рефлексы.
+Во-вторых, часто, чтобы сделать моральный выбор нужно что-то
+знать о людях между которыми надо выбирать, маловероятно
+что белковый водитель столкнётся со знакомыми людьми, а
+если даже встретит, то не факт что в аварийной (скорее всего
+неожиданной) ситуации он сможет их узнать. В случае же
+незнакомых людей ему нужно будет сделать какие-то оценки
+только на основании очень короткого (мгновенного) внешнего
+осмотра, сможет ли он хотя бы распознать возраст, состояние
+                                                        
+                                                        
+беременности? Точно он не сможет узнать о заслугах этих
+людей перед обществом или их преступлениях. И даже если
+человек успел сделать какой-то выбор, был ли этот выбор
+верным для него, если он принимал бы аналогичное решение в
+спокойной обстановке имея время на раздумья принял бы он то же
+решение?</p>
+
+<p>   Конечно без надёжных исследований нельзя утверждать, что
+человек никогда не принимает моральных решений за рулём, но
+выглядит это сомнительно, скорее всего человек рефлекторно
+спасает себя и в этом есть определённый смысл - ведь водитель
+имеет контроль только над своим авто и решает ту проблему, на
+которую может влиять.</p>
+
+<p>   Для того, чтобы не ухудшить ситуацию в этой сфере (и по ряду
+других причин описанных ниже) мы должны запрограммировать
+автопилот так, чтобы ни в каких случаях он не жертвовал своими
+пассажирами. Помимо указанной особенности человеческого
+поведения это важно и потому, что просто никто не пожелает
+пользоваться автомобилем который может тебя убить, при том, что
+вины пассажиров никакой нет (ведь управляет автопилот, да и
+правил он не нарушает). Есть ещё один подводный камень
+автопилота способного пожертвовать пассажиром - зная о такой
+особенности автопилота можно подстроить убийство пассажира,
+например, вытолкнув на дорогу в опасном месте несколько человек
+замаскированных под беременных женщин.</p>
+
+<p>   Как видим и в этой гипотетической ситуации автопилот, скорее
+всего, будет не хуже человека.</p>
+
+<p><strong>8    Что делать роботу</strong></p>
+
+<p>Автопилот это машина, которая должна вести себя предсказуемо,
+тогда ответственность за ущерб лежит на тех кто нарушил правила
+зная как ведёт себя машина. Если человек сунул руку под
+                                                        
+                                                        
+гидравлический пресс, то это его вина, также и в случае если он
+выскочил под едущий автомобиль из кустов. Это касается не только
+роботов, но и людей - машинист поезда не виноват в том, что
+кто-то выскочил на пути или гуляет по рельсам, его задача
+безопасно доставить пассажиров в точку назначения, а не спасать
+суицидников. Автопилот должен стараться минимизировать ущерб -
+тормозить, выруливать, но без дополнительных рисков для
+пассажиров и других участников движения.</p>
+
+<p><strong>9    Вывод</strong></p><empty-line /><p>Раз мораль не универсальна/субъективна, то автопилоту
+     надо   переключать   настройки   морального   выбора   в
+     зависимости  от  пассажира  (а  их  надо  с  него  как-то
+     считывать).  А  если  пассажиров  несколько  с  разными
+     моральными профилями, чей выбирать?</p>
+
+<p>Реалистичных примеров ситуаций с моральным выбором
+     пока                                                                        не
+     придумали, а значит затруднительно запрограммировать
+     автопилот на распознавание таких ситуаций. У нас есть
+     критерии понятные человеку, а не машине.</p>
+
+<p>Для принятия морального решения нужно знать результат
+     этого решения т.е. знать будущее, а оно не известно.</p>
+
+<p>Автопилот это программа, он не имеет модели ситуации
+                                                        
+                                                        
+     аналогичной человеческой, а значит не может принимать
+     решения как это сделал бы человек. Моральные решения
+     это задача разума, а не программ.</p>
+
+<p>Робот    должен    соблюдать    правила    и    действовать
+     предсказуемо.</p>
+
+<p>Робот не должен жертвовать пассажиром.</p>
+
+<p>Похоже ни о каком моральном выборе при разработке автопилота
+говорить не имеет смысла.</p>
+</section>
+
+</body><binary id="_0.jpg" content-type="image/jpeg">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
+/Z
+</binary>
+</FictionBook>
